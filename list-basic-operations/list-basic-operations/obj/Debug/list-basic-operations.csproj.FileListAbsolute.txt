@@ -1,0 +1,7 @@
+C:\Users\JCAO\Documents\GitHub\list-basic-operations\list-basic-operations\list-basic-operations\bin\Debug\list-basic-operations.exe.config
+C:\Users\JCAO\Documents\GitHub\list-basic-operations\list-basic-operations\list-basic-operations\bin\Debug\list-basic-operations.exe
+C:\Users\JCAO\Documents\GitHub\list-basic-operations\list-basic-operations\list-basic-operations\bin\Debug\list-basic-operations.pdb
+C:\Users\JCAO\Documents\GitHub\list-basic-operations\list-basic-operations\list-basic-operations\obj\Debug\list-basic-operations.csprojAssemblyReference.cache
+C:\Users\JCAO\Documents\GitHub\list-basic-operations\list-basic-operations\list-basic-operations\obj\Debug\list-basic-operations.csproj.CoreCompileInputs.cache
+C:\Users\JCAO\Documents\GitHub\list-basic-operations\list-basic-operations\list-basic-operations\obj\Debug\list-basic-operations.exe
+C:\Users\JCAO\Documents\GitHub\list-basic-operations\list-basic-operations\list-basic-operations\obj\Debug\list-basic-operations.pdb
