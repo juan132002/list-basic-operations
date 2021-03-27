@@ -56,7 +56,7 @@ namespace list_basic_operations
                     for (int i = 1; i < posicion - 1; i++)
                     {
                         last = last.Next;
-                        if (last.Next == null) break;
+                        if (last.Next == null);
                     }
 
                     CourtRentalNodo lastnext;
